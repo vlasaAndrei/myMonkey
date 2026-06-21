@@ -4,4 +4,4 @@
 
 ### Left off at
 
-Most notably the input in this test case has changed. It looks like a subset of the Monkey language.
+1.4 - Extending our Token Set and Lexer
