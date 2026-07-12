@@ -4,4 +4,4 @@
 
 ### Left off at
 
-1.4 - Extending our Token Set and Lexer
+2.4 - Parser’s first steps: parsing let statements
