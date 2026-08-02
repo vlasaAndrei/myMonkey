@@ -4,8 +4,4 @@
 
 ### Left off at
 
-$ go test ./parser
---- FAIL: TestLetStatements (0.00s)
-parser_test.go:20: ParseProgram() returned nil
-FAIL
-FAIL monkey/parser 0.007s
+We’re going to make this String() method part of the ast.Node interface:
