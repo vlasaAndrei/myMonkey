@@ -4,4 +4,8 @@
 
 ### Left off at
 
-2.4 - Parser’s first steps: parsing let statements
+$ go test ./parser
+--- FAIL: TestLetStatements (0.00s)
+parser_test.go:20: ParseProgram() returned nil
+FAIL
+FAIL monkey/parser 0.007s
