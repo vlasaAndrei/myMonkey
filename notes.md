@@ -4,4 +4,4 @@
 
 ### Left off at
 
-Now we are ready to get to the heart of the algorithm.
+The best place to do this is in the parsing function associated with token.INT, called parseIntegerLiteral:
