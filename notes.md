@@ -4,4 +4,4 @@
 
 ### Left off at
 
-We’re going to make this String() method part of the ast.Node interface:
+Now we are ready to get to the heart of the algorithm.
